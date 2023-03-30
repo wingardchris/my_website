@@ -4,7 +4,7 @@ title = "About me"
 type = "blog"
 +++
 
-I'm a *andsfadsfadsljf sponge** who works as a fry cook at the **Krusty Krab**:
+I'm a *test** who works as a fry cook at the **Krusty Krab**:
 ![](/img/krusty_krab.webp)
 
 The Krusty Krabe is a fast food restaurant known for it's signature burger:
