@@ -22,4 +22,4 @@ During my short life, I've:
 * Hosted an alternative homecoming dance (a la Footlose); and
 * Completed 6 Marathons (it took me 157.2 miles to realize running marathons is CRAZY and nobody should run that distance)
 
-To learn more about these and other strange pursuits, please peruse my writings [here](/blog/krabby_patty/).
+To learn more about these and my other strange pursuits, please peruse my writings [here](/blog/krabby_patty/).
