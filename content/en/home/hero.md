@@ -15,7 +15,7 @@ hero_media = "/img/Headshot.jpg"
 	# The url of the button
   url = "/about"
 	# The text of the button
-  label = "Know more"
+  label = "About Chris"
 	# Primary color
 	primary = true
 
@@ -25,7 +25,7 @@ hero_media = "/img/Headshot.jpg"
 
 +++
 
-# A theme to **express** your ideas.
+# Attorney | MBA | Writer
 
-Pico is a minimalist, readable, responsive, light and beautiful Hugo theme.
+Chris works at the intersection of law and business. He's passionate about worker democracy, equitable economic development, and sustainabile finance.
 
