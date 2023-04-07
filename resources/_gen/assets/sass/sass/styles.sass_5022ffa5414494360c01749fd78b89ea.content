@@ -150,7 +150,7 @@
   src: url(../fonts/spectral/extra_bold.woff2) format("woff2"); }
 
 /*
-! tailwindcss v3.2.7 | MIT License | https://tailwindcss.com
+! tailwindcss v3.3.1 | MIT License | https://tailwindcss.com
 */
 
 /*
@@ -178,6 +178,7 @@
 3. Use a more readable tab size.
 4. Use the user's configured `sans` font-family by default.
 5. Use the user's configured `sans` font-feature-settings by default.
+6. Use the user's configured `sans` font-variation-settings by default.
 */
 
 html {
@@ -188,6 +189,7 @@ html {
      tab-size: 4; /* 3 */
   font-family: ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 4 */
   font-feature-settings: normal; /* 5 */
+  font-variation-settings: normal; /* 6 */
 }
 
 /*
@@ -979,16 +981,21 @@ video {
   background-image: linear-gradient(to right, var(--tw-gradient-stops)); }
 
 .from-accent-light {
-  --tw-gradient-from: var(--color-accent-light);
-  --tw-gradient-to: rgb(255 255 255 / 0);
+  --tw-gradient-from: var(--color-accent-light) var(--tw-gradient-from-position);
+  --tw-gradient-from-position:  ;
+  --tw-gradient-to: rgb(255 255 255 / 0)  var(--tw-gradient-from-position);
+  --tw-gradient-to-position:  ;
   --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to); }
 
 .via-accent-dark {
-  --tw-gradient-to: rgb(255 255 255 / 0);
-  --tw-gradient-stops: var(--tw-gradient-from), var(--color-accent-dark), var(--tw-gradient-to); }
+  --tw-gradient-via-position:  ;
+  --tw-gradient-to: rgb(255 255 255 / 0)  var(--tw-gradient-to-position);
+  --tw-gradient-to-position:  ;
+  --tw-gradient-stops: var(--tw-gradient-from), var(--color-accent-dark) var(--tw-gradient-via-position), var(--tw-gradient-to); }
 
 .to-accent {
-  --tw-gradient-to: var(--color-accent); }
+  --tw-gradient-to: var(--color-accent) var(--tw-gradient-to-position);
+  --tw-gradient-to-position:  ; }
 
 .bg-cover {
   background-size: cover; }
@@ -1270,25 +1277,25 @@ video {
   --tw-scale-y: .9;
   transform: translate(var(--tw-translate-x), var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); }
 
-.dark .dark\:border-secondary-light {
+:is(.dark .dark\:border-secondary-light) {
   border-color: var(--color-secondary-light); }
 
-.dark .dark\:bg-secondary {
+:is(.dark .dark\:bg-secondary) {
   background-color: var(--color-secondary); }
 
-.dark .dark\:bg-secondary-light {
+:is(.dark .dark\:bg-secondary-light) {
   background-color: var(--color-secondary-light); }
 
-.dark .dark\:text-primary {
+:is(.dark .dark\:text-primary) {
   color: var(--color-primary); }
 
-.dark .dark\:text-primary-light {
+:is(.dark .dark\:text-primary-light) {
   color: var(--color-primary-light); }
 
-.dark .dark\:hover\:text-primary:hover {
+:is(.dark .dark\:hover\:text-primary:hover) {
   color: var(--color-primary); }
 
-.dark .dark\:hover\:text-primary-dark:hover {
+:is(.dark .dark\:hover\:text-primary-dark:hover) {
   color: var(--color-primary-dark); }
 
 @media (min-width: 640px) {
