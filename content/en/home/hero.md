@@ -21,11 +21,11 @@ hero_media = "img/Headshot.jpeg"
 
 [[btn]]
   url = "#contact"
-  label = 'Contact me'
+  label = 'Contact'
 
 +++
 
-# Test | MBA | Writer
+# Hi, I'm Chris Wingard | MBA | JD
 
-Chris works at the intersection of law and business. He's passionate about worker democracy, equitable economic development, and sustainabile finance.
+I works at the intersection of law and business. I'm passionate about worker democracy, equitable economic development, and sustainabile finance.
 
