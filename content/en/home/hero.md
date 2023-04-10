@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "/img/Headshot.jpg"
+hero_media = "img/Headshot.jpeg"
 
 # Buttons
 # Add as much button as you want
@@ -25,7 +25,7 @@ hero_media = "/img/Headshot.jpg"
 
 +++
 
-# Attorney | MBA | Writer
+# Test | MBA | Writer
 
 Chris works at the intersection of law and business. He's passionate about worker democracy, equitable economic development, and sustainabile finance.
 
