@@ -59,4 +59,12 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   date_start = "2016-05-01"
   date_end = "2018-08-01"
   description = "Wrote a succesful grant proposal, coordinated data collection and analysis, and prepared soup kitchen meals from scratch for up to 100 guests per service"
+
+  [[period]]
+  title = "Barista | Pantry Chef | Busboy"
+  subtitle = "The Hot Chocolate Sparrow and Mahoney's Atlantic Bar & Grill"
+  location = "Orleans, MA"
+  date_start = "2011-06-15"
+  date_end = "2016-08-01"
+  description = "Honed customer service and latte art skills during 5 years of restaurant experience"
 +++
