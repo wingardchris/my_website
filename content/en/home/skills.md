@@ -10,46 +10,46 @@ title = "Skills"
 subtitle = "Chris is adept at the following skills"
 
 [[bar]]
-	icon = "/icons/legalresearch.png"
+	icon = "/icons/projectmanagement.png"
 	name = "Project Management"
 	percent = "100%"
 	
 
 [[bar]]
-	icon = "/icons/heat.svg"
+	icon = "/icons/writtencommunication.png"
 	name = "Written Communication"
-	percent = "90%"
+	percent = "100%"
 
 
 [[bar]]
-	icon = "/icons/chicken.svg"
+	icon = "/icons/empathy2.png"
 	name = "Empathy"
-	percent = "87%"
+	percent = "100%"
 
 
 [[bar]]
-	icon = "/icons/presentation.svg"
+	icon = "/icons/businessplanning.png"
 	name = "Business Planning"
-	percent = "75%"
+	percent = "100%"
 
 [[bar]]
-	icon = "/icons/presentation.svg"
+	icon = "/icons/publicspeaking.png"
 	name = "Public Speaking"
-	percent = "75%"
+	percent = "100%"
 	
 
 [[bar]]
-	icon = "/icons/presentation.svg"
+	icon = "/icons/legalresearch.png"
 	name = "Legal Research"
-	percent = "75%"
+	percent = "100%"
 
 [[bar]]
-	icon = "/icons/presentation.svg"
+	icon = "/icons/partnerships.png"
 	name = "Strategic Partnerships"
-	percent = "75%"
+	percent = "100%"
 
 [[bar]]
-	icon = "/icons/presentation.svg"
+	icon = "/icons/attentiontodetail.png"
 	name = "Attention to Detail"
-	percent = "75%"
+	percent = "100%"
 +++
