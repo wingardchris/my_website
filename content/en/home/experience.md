@@ -13,12 +13,12 @@ subtitle = ""
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
-  title = "Associate"
+  title = "Investment Management Associate"
   subtitle = "Morgan, Lewis & Bockius"
   location = "Philadelphia, PA & Boston, MA"
   date_start = "2022-11-28"
   date_end = ""
-  description = "Responded to client needs with timely work product in the registered funds investment management practice "
+  description = "Prepared regulatory filings for mutual funds and addressed other time-sensitive client requests"
 
 [[period]]
   title = "Summer Associate and Venture Capital Law Clerk"
@@ -26,7 +26,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Boston, MA"
   date_start = "2021-06-01"
   date_end = "2022-05-01"
-  description = "Drafted documents for VC financings and assisted with VC fund formation"
+  description = "Managed multiple client deadlines while forming 6 VC Funds with over $300 million in total capital contributions"
 
   [[period]]
   title = "Legal Advocate"
@@ -34,7 +34,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Boston, MA"
   date_start = "2020-05-01"
   date_end = "2020-08-01"
-  description = "Counseled MIT & BU student entrepeneurs on a variety of legal matters related to early stage ventures"
+  description = "Counseled 25 MIT & BU student entrepeneurs on a variety of legal matters related to early stage ventures and formed 4 new companies"
 
   [[period]]
   title = "Interim Director of Operations and Business Development"
@@ -42,7 +42,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Boston, MA"
   date_start = "2019-05-01"
   date_end = "2019-09-01"
-  description = "Created founding documents and procedures to guide MassCEO through its early development"
+  description = "Developed 10 strategic partnerships with employee ownership organizations throughout the country"
 
   [[period]]
   title = "Policy Research Fellow"
@@ -50,7 +50,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Boston, MA"
   date_start = "2018-09-01"
   date_end = "2019-05-01"
-  description = "Drafted policy memos for the 2019 legislative session and authored a 58 page report on employee ownership."
+  description = "Authored a 58-page research report on legislative solutions to expand employee ownership in MA"
 
   [[period]]
   title = "Tisch Scholar and Forest Foundation Fellow"
@@ -58,5 +58,5 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   location = "Boston, MA"
   date_start = "2016-05-01"
   date_end = "2018-08-01"
-  description = "Wrote a succesful grant proposal, coordinated data collection and analysis, and prepared soup kitchen meals from scratch for up to 100 guests per service."
+  description = "Wrote a succesful grant proposal, coordinated data collection and analysis, and prepared soup kitchen meals from scratch for up to 100 guests per service"
 +++
