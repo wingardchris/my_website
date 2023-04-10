@@ -1,6 +1,6 @@
 +++
 # A Skills section created with the Featurette widget.
- 
+widget = "bars"
 weight = 20  # Order that this section will appear.
 
 # Uncomment the following line and widget will NOT be displayed
