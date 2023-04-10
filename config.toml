@@ -10,7 +10,7 @@ paginate = 10
 theme = 'pico'
 # Title of the website is used for the meta tag title
 # and the square icon (not the favicon)
-title = 'Pico'
+title = 'Chris Wingard'
 
 [params]
 customCSS = [
@@ -21,7 +21,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Boilerplate website"
+description = "Chris Wingard website"
 email = "mail@example.com"
 favicon = '/favicon.ico'
 # Dark mode support
@@ -36,7 +36,7 @@ darkMode = 'off'
 alt = "email icon"
 icon = "/icons/email.svg"
 name = "email"
-url = "mailto:mail@example.com"
+url = "mailto:wingard.christopher@gmail.com"
 
 [[params.social]]
 alt = "github icon"
@@ -114,11 +114,11 @@ languageCode = 'en'
 languageName = 'English'
 weight = 0
 
-[languages.fr]
-contentDir = 'content/fr'
-languageCode = 'fr'
-languageName = 'Français'
-weight = 2
+# [languages.fr]
+# contentDir = 'content/fr'
+# languageCode = 'fr'
+# languageName = 'Français'
+# weight = 2
 
 # Uncomment the following lines to add an italian translation.
 # [languages.it]
