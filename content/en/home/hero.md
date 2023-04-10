@@ -27,5 +27,5 @@ hero_media = "img/Headshot.jpeg"
 
 # Hi, I'm Chris Wingard | MBA | JD
 
-I works at the intersection of law and business. I'm passionate about worker democracy, equitable economic development, and sustainabile finance.
+I work at the intersection of law and business. I'm passionate about worker democracy, equitable economic development, and sustainabile finance.
 
