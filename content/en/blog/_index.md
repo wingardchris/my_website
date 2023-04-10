@@ -2,5 +2,5 @@
 title = "Essays on a variety of topics"
 # Default banner
 [cascade]
-  banner = "img/default_banner.webp"
+  banner = "img/default_banner.jpeg"
 +++
