@@ -9,9 +9,10 @@ weight = 20  # Order that this section will appear.
 title = "Skills"
 subtitle = "Chris is adept at the following skills"
 
-
-	icon = "/icons/precision.svg"
+[[bar]]
+	icon = "/icons/legalresearch.png"
 	name = "Project Management"
+	percent = "100%"
 	
 
 [[bar]]
@@ -36,10 +37,6 @@ subtitle = "Chris is adept at the following skills"
 	name = "Public Speaking"
 	percent = "75%"
 	
-[[bar]]
-	icon = "/icons/presentation.svg"
-	name = "Business Planning"
-	percent = "75%"
 
 [[bar]]
 	icon = "/icons/presentation.svg"
