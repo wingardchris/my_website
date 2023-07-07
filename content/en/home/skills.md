@@ -4,7 +4,7 @@ widget = "bars"
 weight = 20  # Order that this section will appear.
 
 # Uncomment the following line and widget will NOT be displayed
-# hidden = true
+ hidden = true
 
 title = "Skills"
 subtitle = "Chris is adept at the following skills"
