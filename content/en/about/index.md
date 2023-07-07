@@ -1,7 +1,7 @@
 +++
 title = "About Chris Wingard"
 
-type = "blog"
+type = "about"
 +++
 
 I received my JD/MBA with Honors from Boston University and now work as an Associate at Morgan Lewis. I'm admitted to practice law in Massachusetts and Pennsylvania.  
