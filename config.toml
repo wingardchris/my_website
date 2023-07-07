@@ -12,6 +12,9 @@ theme = 'pico'
 # and the square icon (not the favicon)
 title = 'Chris Wingard'
 
+[markup.goldmark.renderer]
+unsafe= true
+
 [params]
 customCSS = [
 	"style/style.css",

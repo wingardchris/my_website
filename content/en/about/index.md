@@ -8,7 +8,11 @@ I received my JD/MBA with Honors from Boston University and now work as an Assoc
 
 Previously, I studied at Pembroke College, Oxford University and Tufts University, where I graduated summa cum laude with a double major in Economics and Environmental Studies. I was also selected a [Tufts Senior Award Winner](https://alumniandfriends.tufts.edu/join-our-community/about-alumni-association/2019-senior-awards-honorees)  and inducted into the [Phi Betta Kappa](https://ase.tufts.edu/pbk/index_files/Page352.htm) honors society. 
 
-![*The Bodelian Library, Oxford University*](/img/Bodelian.jpeg)
+<img class="mx-auto my-4" src="/img/Bodelian.jpeg" alt="drawing" width="400"/>
+
+<div class="text-center my-2 font-sans text-md text-grey-800">
+	<em>The Bodelian Library</em>
+</div>
 
 I'm interested in the power of law to create a more just, sustainable, and equitable economy. I've written extensively on social justice topics at the intersection of law and business, such as climate risk and employee ownership. To learn more about these and other topics, please peruse my writings [here](/blog/krabby_patty/)
 

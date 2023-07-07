@@ -17,7 +17,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   subtitle = "Morgan, Lewis & Bockius"
   location = "Philadelphia, PA & Boston, MA"
   date_start = "2022-11-28"
-  date_end = ""
+  date_end = "2023-06-30"
   description = "Prepared regulatory filings for mutual funds and addressed other time-sensitive client requests"
 
 [[period]]
