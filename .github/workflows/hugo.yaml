@@ -58,7 +58,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://www.chriswingard.com/"          
+            --baseURL "https://wingardchris.github.io/my_website/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
