@@ -58,7 +58,7 @@ jobs:
           hugo \
             --gc \
             --minify \
-            --baseURL "https://wingardchris.github.io/my_website/"          
+            --baseURL "https://chriswingard.com/"          
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
@@ -68,7 +68,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: "https://chriswingard.com/"
     runs-on: ubuntu-latest
     needs: build
     steps:
