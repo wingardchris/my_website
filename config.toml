@@ -1,6 +1,6 @@
 # Use an empty string if you have multiple domain linking to your website
 # This string is used to generate the absolute URL for your assets.
-#baseURL = 'https://example.com/'
+baseURL = 'https://chriswingard.com/'
 defaultContentLanguage = 'en'
 # Emoji in markdown files
 enableEmoji = true
@@ -24,8 +24,8 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # Homepage description
 # For blog page description you can overwrite it 
 # in the front matter
-description = "Chris Wingard website"
-email = "mail@example.com"
+description = "Chris Wingard Personal Website"
+email = "wingard.christopher@gmail.com"
 favicon = '/favicon.ico'
 # Dark mode support
 # Supported value are :
@@ -59,7 +59,7 @@ weight = 20
 [[menu.main]]
 identifier = "contact" # identifier is use for translations
 pre = "" # pre is inserted before the translation (icons, image, etc)
-url = "/#contact" 
+url = "/contact/" 
 weight = 30 
 
 # Syntax highlightning

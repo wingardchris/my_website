@@ -1,7 +1,7 @@
 +++
-title = "Contact Chris Wingard"
+title = "About Chris Wingard"
 
-type = "contact"
+type = "about"
 +++
 
 I received my JD/MBA with Honors from Boston University and now work as an Associate at Morgan Lewis. I'm admitted to practice law in Massachusetts and Pennsylvania.  
@@ -14,7 +14,7 @@ Previously, I studied at Pembroke College, Oxford University and Tufts Universit
 	<em>The Bodelian Library</em>
 </div>
 
-I'm interested in the power of law to create a more just, sustainable, and equitable economy. I've written extensively on social justice topics at the intersection of law and business, such as climate risk and employee ownership. To learn more about these and other topics, please peruse my writings [here](/blog)
+I'm interested in the power of law to create a more just, sustainable, and equitable economy. I've written extensively on social justice topics at the intersection of law and business, such as climate risk and employee ownership. To learn more about these and other topics, please peruse my writings [here](/blog/krabby_patty/)
 
 Outside of my professional life, I love cooking and experimenting with various fermented foods. 
 ![*Ceviche I served at a pop-up dinner event*](/img/ceviche.jpeg)

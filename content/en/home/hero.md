@@ -20,7 +20,7 @@ hero_media = "img/Headshot.jpeg"
 	primary = true
 
 [[btn]]
-  url = "#contact"
+  url = "/contact"
   label = 'Contact'
 
 +++
