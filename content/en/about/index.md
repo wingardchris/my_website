@@ -1,11 +1,9 @@
 +++
-title = "Contact Chris Wingard"
+title = "About Chris Wingard"
 
-type = "contact"
+type = "about"
 +++
-
-I received my JD/MBA with Honors from Boston University and now work as an Associate at Morgan Lewis. I'm admitted to practice law in Massachusetts and Pennsylvania.  
-
+ 
 Previously, I studied at Pembroke College, Oxford University and Tufts University, where I graduated summa cum laude with a double major in Economics and Environmental Studies. I was also selected a [Tufts Senior Award Winner](https://alumniandfriends.tufts.edu/join-our-community/about-alumni-association/2019-senior-awards-honorees)  and inducted into the [Phi Betta Kappa](https://ase.tufts.edu/pbk/index_files/Page352.htm) honors society. 
 
 <img class="mx-auto my-4" src="/img/Bodelian.jpeg" alt="drawing" width="400"/>
