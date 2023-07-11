@@ -1257,6 +1257,10 @@ video {
 .hover\:bg-secondary:hover {
   background-color: var(--color-secondary); }
 
+.hover\:text-gray-200:hover {
+  --tw-text-opacity: 1;
+  color: rgb(229 231 235 / var(--tw-text-opacity)); }
+
 .hover\:text-primary-light:hover {
   color: var(--color-primary-light); }
 
