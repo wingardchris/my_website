@@ -1,49 +1,10 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Chris Wingard</title>
-    <link>https://chriswingard.com/</link>
-    <description>Recent content on Chris Wingard</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Thu, 25 Jun 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://chriswingard.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>The Bar Exam Should be Abolished</title>
-      <link>https://chriswingard.com/blog/bar_exam/</link>
-      <pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate>
-      
-      <guid>https://chriswingard.com/blog/bar_exam/</guid>
-      <description>As the Spring semester draws to a close, thousands of soon-to-be law school graduates across the country will shift their attention to the final hurdle to become a lawyer: the bar exam. Unfortunately, this ultimate barrier to practice is designed to arbitrarily exclude qualified individuals from the profession, bears no rational relationship to the actual practice of law, and is harmful to consumers. The bar exam should be abolished because it would increase access to the profession, decrease legal costs for consumers, and have little to no adverse effect on the quality of legal services provided by the market.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://chriswingard.com/featurette/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chriswingard.com/featurette/</guid>
-      <description>Homepage type: widget_page
-Homepage is headless, other widget pages are not. headless: true</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://chriswingard.com/home/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chriswingard.com/home/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>About Chris Wingard</title>
-      <link>https://chriswingard.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://chriswingard.com/about/</guid>
-      <description>I received my JD/MBA with Honors from Boston University and now work as an Associate at Morgan Lewis. I&amp;rsquo;m admitted to practice law in Massachusetts and Pennsylvania.
-Previously, I studied at Pembroke College, Oxford University and Tufts University, where I graduated summa cum laude with a double major in Economics and Environmental Studies. I was also selected a Tufts Senior Award Winner and inducted into the Phi Betta Kappa honors society.</description>
-    </item>
-    
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Chris Wingard</title><link>/</link><description>Recent content on Chris Wingard</description><generator>Hugo -- gohugo.io</generator><language>en</language><lastBuildDate>Tue, 25 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml"/><item><title>Inequality and Inefficiency</title><link>/blog/inequality/</link><pubDate>Tue, 25 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/inequality/</guid><description>&amp;ldquo;Does the welfare state enhance or undermine economic efficiency? Are societies with greater or lesser amounts of inequality more productive?&amp;rdquo;
+The precise relationship between the welfare state and economic efficiency is challenging to ascertain, as ideological bias may suggest explanations that are politically expedient but have little resemblance to reality. This challenge remains for even the most neutral observer, who may be befuddled by incomplete data sets, exogenous economic shocks, or confounding variables which collectively muddy the waters.</description></item><item><title>Climate Change Policy Action</title><link>/blog/climate-_change_policy_action/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/climate-_change_policy_action/</guid><description>&amp;ldquo;Since there is such scientific uncertainty about global warming, it is unreasonable to take any drastic policy steps. Do you agree?&amp;rdquo;
+It is unreasonable to suggest that there is significant scientific uncertainty surrounding global warming. Consequently, it would be nothing short of reckless for humanity to refuse to implement drastic policy changes to address the causal relationship between our actions and the Earth&amp;rsquo;s changing climate. When asked what is the most pressing challenge facing the United States, presidential candidate Bernie Sanders coolly replied climate change.</description></item><item><title>Climate Risks and Cape Cod:</title><link>/blog/climate_risks_cape_cod/</link><pubDate>Mon, 24 Jul 2023 00:00:00 +0000</pubDate><guid>/blog/climate_risks_cape_cod/</guid><description>Climate Risks and Cape Cod:
+How State, County, and Local Governments Respond to a Crisis
+Climate change poses an existential threat to coastal communities around the world. New England is home to one such community: Cape Cod, a peninsula with 560 miles of coastline extending into the Atlantic from mainland Massachusetts.1 Surrounded by water on all sides and with a max elevation of only three hundred and six feet, the Cape is acutely vulnerable to sea level rise and other climate risks.</description></item><item><title>Facebook, Ethics, and Ignorance: nnnn</title><link>/blog/facebook/</link><pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate><guid>/blog/facebook/</guid><description>Facebook, Ethics, and Ignorance:
+One Attorney&amp;rsquo;s Discovery That Not Everything Online is Public
+The Case 1
+On September 21, 2021, the New Jersey Supreme Court finally dismissed an Ethics complaint originally brought against John Robertelli in 2008 for his use of a rapidly growing social media platform to gain information about Dennis Hernandez, a party opponent.2
+In the original case Hernandez alleged that he was hit and disabled by an Oakland, New Jersey police department cruiser.</description></item><item><title>The Bar Exam Should be Abolished</title><link>/blog/bar_exam/</link><pubDate>Thu, 25 Jun 2020 00:00:00 +0000</pubDate><guid>/blog/bar_exam/</guid><description>As the Spring semester draws to a close, thousands of soon-to-be law school graduates across the country will shift their attention to the final hurdle to become a lawyer: the bar exam. Unfortunately, this ultimate barrier to practice is designed to arbitrarily exclude qualified individuals from the profession, bears no rational relationship to the actual practice of law, and is harmful to consumers. The bar exam should be abolished because it would increase access to the profession, decrease legal costs for consumers, and have little to no adverse effect on the quality of legal services provided by the market.</description></item><item><title/><link>/featurette/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/featurette/</guid><description>Homepage type: widget_page
+Homepage is headless, other widget pages are not. headless: true</description></item><item><title>About Chris</title><link>/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/about/</guid><description>it&amp;rsquo;s nice to meet you &amp;rsquo;''</description></item><item><title>Contact Chris Wingard</title><link>/contact/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/contact/</guid><description>Want to connect? Employee ownership, clean tech startup ideas, climate risk, speaking engagements, etc. - I&amp;rsquo;d love to chat about it! You can reach me at wingard(dot)christopher(at)gmail(dot)come or using the link below. Please note that chatting with me is for information purposes only, and does not constitute legal advice. I do not intend to create an attorney-client relationship with you (just a normal, human-human relationship).</description></item><item><title>Legal Notices and Attorney Advertising</title><link>/legal-notices-attorney-advertising/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>/legal-notices-attorney-advertising/</guid><description/></item></channel></rss>

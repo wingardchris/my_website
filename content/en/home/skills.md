@@ -1,55 +1,34 @@
 +++
 # A Skills section created with the Featurette widget.
-widget = "bars"
+widget = "bars"  # See https://sourcethemes.com/academic/docs/page-builder/
 weight = 20  # Order that this section will appear.
 
 # Uncomment the following line and widget will NOT be displayed
- hidden = true
+hidden = true
 
 title = "Skills"
-subtitle = "Chris is adept at the following skills"
+subtitle = "I am really good at the following technical skills"
 
 [[bar]]
-	icon = "/icons/projectmanagement.png"
-	name = "Project Management"
-	percent = "100%"
-	
+	icon = "/icons/precision.svg"
+	name = "Precision"
+	percent = "95%"
 
 [[bar]]
-	icon = "/icons/writtencommunication.png"
-	name = "Written Communication"
-	percent = "100%"
-
-
-[[bar]]
-	icon = "/icons/empathy2.png"
-	name = "Empathy"
-	percent = "100%"
+	icon = "/icons/heat.svg"
+	name = "Heat Control"
+	percent = "90%"
 
 
 [[bar]]
-	icon = "/icons/businessplanning.png"
-	name = "Business Planning"
-	percent = "100%"
+	icon = "/icons/chicken.svg"
+	name = "Quality of Food"
+	percent = "87%"
+
 
 [[bar]]
-	icon = "/icons/publicspeaking.png"
-	name = "Public Speaking"
-	percent = "100%"
-	
+	icon = "/icons/presentation.svg"
+	name = "Presentation"
+	percent = "75%"
 
-[[bar]]
-	icon = "/icons/legalresearch.png"
-	name = "Legal Research"
-	percent = "100%"
-
-[[bar]]
-	icon = "/icons/partnerships.png"
-	name = "Strategic Partnerships"
-	percent = "100%"
-
-[[bar]]
-	icon = "/icons/attentiontodetail.png"
-	name = "Attention to Detail"
-	percent = "100%"
 +++

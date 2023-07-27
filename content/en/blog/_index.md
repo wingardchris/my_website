@@ -1,6 +1,6 @@
 +++
-title = "Essays on a variety of topics"
+title = "Blog Page"
 # Default banner
 [cascade]
-  banner = "img/default_banner.jpg"
+  banner = "img/typing.jpg"
 +++

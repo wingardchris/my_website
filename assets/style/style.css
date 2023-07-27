@@ -3,3 +3,15 @@
 /* body {
 	background-color: white!important;
 } */
+.w-16{
+	width: 4em;
+}
+.h-16{
+	height: 4em;
+}
+.space-between{
+	justify-content: space-between;
+}
+.lh-1-5{
+	line-height: 1.5;
+}

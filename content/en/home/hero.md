@@ -7,7 +7,7 @@ weight = 10
 # hidden = true
 
 # Hero image (optional). Enter filename of an image in the `static/` folder.
-hero_media = "img/Headshot.jpeg"
+hero_media = "/img/landing-.jpg"
 
 # Buttons
 # Add as much button as you want
@@ -28,4 +28,5 @@ hero_media = "img/Headshot.jpeg"
 # Hi, I'm Chris Wingard | MBA | JD
 
 I work at the intersection of law and business. I'm passionate about worker democracy, equitable economic development, and sustainabile finance.
+
 

@@ -1,0 +1,9 @@
+<h1 class="text-center mx-auto max-w-4xl max-w-14rem text-4xl sm:text-5xl md:text-6xl lh-1-5">
+	{{ .Title | safeHTML  }}
+</h1>
+{{ with .Params.media }}
+<div
+    class="my-6 p-4 mx-auto">
+    <img src="{{ . | relURL}}" alt="hero image" class="">
+</div>
+{{ end }}
