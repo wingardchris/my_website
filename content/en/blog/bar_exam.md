@@ -1,8 +1,8 @@
 +++
-title = "The Bar Exam Should be Abolished"
+title = "The Bar Exam should be Abolished"
 subtitle = "An argument to increase access to justice."
-tags = ['Equity']
-date = 2020-06-25
+tags = ['Justice']
+date = 2022-04-25
 
 # For description meta tag
 description = "An argument to increase access to justice."
