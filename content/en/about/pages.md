@@ -12,16 +12,10 @@ title = "information"
 +++
 
 
-## Where I have fun.
+## Where I have fun...
 
-Outside of my professional life, I enjoy activities that challenge me physically and mentally. I've developed resilience and flexibility through distance running and yoga. I meditate to stay grounded and explore consciousness. My love of cooking requires precision and creative expression. I also can unicycle, but my future in the circus is limited until I learn to juggle.
+Outside of my professional life, I enjoy activities that challenge me physically and mentally. I love surfing, skiing, and being outside. I'm a mediocre runner, who (barely) managed to complete 6 marathons. My meditation and yoga practices keep me grounded and help me explore consciousness. I'm often found in the kitchen, where I brew kombucha and experiment with other new recipes. I also can unicycle, but my future in the circus is limited until I learn to juggle. While juggling eludes me, I still manage to build community and bring people together through food and sometimes [dancing](https://www.wickedlocal.com/story/provincetown-banner/2013/11/09/nauset-senior-s-alternative-dance/38345606007/), à la [Footlose](https://www.barstoolsports.com/blog/169663/nauset-senior-holds-alternative-dance-after-school-administraion-banned-grinding-turned-on-lights-and-made-dance-miserable))
 
-
-* Brewed countless batches of Kombucha;
-* Worked on a small-scale organic farm in Ecuador;
-* Learned to unicycle;
-* Hosted an [alternative homecoming dance](https://www.wickedlocal.com/story/provincetown-banner/2013/11/09/nauset-senior-s-alternative-dance/38345606007/) (à la [Footlose](https://www.barstoolsports.com/blog/169663/nauset-senior-holds-alternative-dance-after-school-administraion-banned-grinding-turned-on-lights-and-made-dance-miserable)); and
-* Completed 6 Marathons
 
 ![](/img/marathon.jpeg)
 
