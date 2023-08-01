@@ -1,19 +1,16 @@
 +++
-title = "Climate Change Policy Action"
-subtitle = "Since there is such scientific uncertainty about global warming, it is unreasonable to take any drastic policy steps. Do you agree?"
-tags = ['professionalresponsibility']
-date = 2023-07-24
+title = "Scientific Uncertainity and Climate Action"
+subtitle = "Is it reasonable to take drastic policy steps to combat climate change given scientific uncertainity?"
+tags = ['Climaterisk']
+date = 2017-04-24
 
 # For description meta tag
-description = "Since there is such scientific uncertainty about global warming, it is unreasonable to take any drastic policy steps. Do you agree?"
+description = "Is it reasonable to take drastic policy steps to combat climate change given scientific uncertainity?"
 
 # Comment next line and the default banner wil be used.
 banner = '/img/typing.jpg'
 
 +++
-
-"Since there is such scientific uncertainty about global warming, it is
-unreasonable to take any drastic policy steps. Do you agree?"
 
 It is unreasonable to suggest that there is significant scientific
 uncertainty surrounding global warming. Consequently, it would be
@@ -33,7 +30,7 @@ uncertainty, there is a broad scientific consensus suggesting humans are
 culpable for our planet\'s changing climate. In the face of this
 reality, many nations have developed solutions the United States
 government may consider "drastic" to cope with these changes. The
-American Federal government has remained reluctant to join the
+American federal government has remained reluctant to join the
 international community in their efforts to mitigate fossil fuel
 emissions. Despite this, local autonomy under federalism has allowed
 certain states to implement strong environmental policies in adherence
