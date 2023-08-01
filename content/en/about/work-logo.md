@@ -8,13 +8,15 @@ weight = 45  # Order that this section will appear.
 # Widget title
 title = "widget 1"
 
-[[logo]]
-  title = "nsf"
-  imgPath = "/img/nsf.jpeg"
 
 [[logo]]
   title = "questrom"
   imgPath = "/img/morgan-lewis.jpeg"
+
+[[logo]]
+  title = "bu-law"
+  imgPath = "/img/gd.jpeg"
+
 
 [[logo]]
   title = "tufts"
@@ -28,6 +30,14 @@ title = "widget 1"
 
 [[logo]]
   title = "bu-law"
+  imgPath = "/img/ma-ceo.png"
+
+[[logo]]
+  title = "nsf"
+  imgPath = "/img/nsf.jpeg"
+  
+[[logo]]
+  title = "bu-law"
   imgPath = "/img/haley-house.webp"
 
 
@@ -37,15 +47,6 @@ title = "widget 1"
   title = "bu-law"
   imgPath = "/img/forest-foundation.jpeg"
 
-  
-
-[[logo]]
-  title = "bu-law"
-  imgPath = "/img/ma-ceo.png"
-
-[[logo]]
-  title = "bu-law"
-  imgPath = "/img/gd.jpeg"
 
 +++
 
