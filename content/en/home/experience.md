@@ -13,12 +13,12 @@ subtitle = ""
 date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#readout
 
 [[period]]
-  title = "Investment Management Associate"
+  title = "Associate"
   subtitle = "Morgan, Lewis & Bockius"
   location = "Philadelphia, PA & Boston, MA"
   date_start = "2022-11-28"
   date_end = "2023-06-30"
-  description = "Prepared regulatory filings for mutual funds and addressed other time-sensitive client requests"
+  description = "Developed system to monitor 54+ new regulatory developments and provide timely insights to clients"
 
 [[period]]
   title = "Summer Associate and Venture Capital Law Clerk"
@@ -31,7 +31,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   [[period]]
   title = "Legal Advocate"
   subtitle = "BU Law Startup Law Clinic"
-  location = "Boston, MA"
+  location = "Remote"
   date_start = "2020-05-01"
   date_end = "2020-08-01"
   description = "Counseled 25 MIT & BU student entrepeneurs on a variety of legal matters related to early stage ventures and formed 4 new companies"
@@ -39,7 +39,7 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   [[period]]
   title = "Interim Director of Operations and Business Development"
   subtitle = "The Massachusetts Center for Employee Ownership"
-  location = "Boston, MA"
+  location = "Remote"
   date_start = "2019-05-01"
   date_end = "2019-09-01"
   description = "Developed 10 strategic partnerships with employee ownership organizations throughout the country"
