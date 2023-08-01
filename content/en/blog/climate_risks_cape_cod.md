@@ -1,20 +1,16 @@
 +++
-title = "Climate Risks and Cape Cod:"
-subtitle = "How State, County, and Local Governments Respond to a Crisis"
-tags = ['professionalresponsibility']
-date = 2023-07-24
+title = "Climate Risks and Cape Cod"
+subtitle = "How state, county, and local governments respond to the climate crisis"
+tags = ['climaterisk']
+date = 2021-12-13
 
 # For description meta tag
-description = "How State, County, and Local Governments Respond to a Crisis"
+description = "How state, county, and local governments respond to the climate crisis"
 
 # Comment next line and the default banner wil be used.
 banner = '/img/typing.jpg'
 
 +++
-
-Climate Risks and Cape Cod:
-
-How State, County, and Local Governments Respond to a Crisis
 
 Climate change poses an existential threat to coastal communities around
 the world. New England is home to one such community: Cape Cod, a
