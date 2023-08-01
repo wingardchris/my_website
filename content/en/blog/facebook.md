@@ -1,20 +1,16 @@
 +++
-title = "Facebook, Ethics, and Ignorance: nnnn"
-subtitle = "One Attorney’s Discovery That Not Everything Online is Public"
+title = "Facebook, Ethics, and Ignorance"
+subtitle = "One attorney’s discovery that not everything online is public"
 tags = ['ethics']
 date = 2020-06-25
 
 # For description meta tag
-description = "Recipe of the legendary Krabby Patty."
+description = "One Attorney’s Discovery That Not Everything Online is Public."
 
 # Comment next line and the default banner wil be used.
 banner = '/img/typing.jpg'
 
 +++
-
-Facebook, Ethics, and Ignorance:
-
-One Attorney's Discovery That Not Everything Online is Public
 
 1.  **The Case**
 
