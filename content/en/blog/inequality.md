@@ -1,19 +1,16 @@
 +++
 title = "Inequality and Inefficiency"
 subtitle = "Does the welfare state enhance or undermine economic efficiency? Are societies with greater or lesser amounts of inequality more productive?"
-tags = ['ethics']
-date = 2023-07-25
+tags = ['economics']
+date = 2017-03-17
 
 # For description meta tag
-description = "oes the welfare state enhance or undermine economic efficiency? Are societies with greater or lesser amounts of inequality more productive?"
+description = "does the welfare state enhance or undermine economic efficiency? Are societies with greater or lesser amounts of inequality more productive?"
 
 # Comment next line and the default banner wil be used.
 banner = '/img/blog.jpg'
 
 +++
-
-"Does the welfare state enhance or undermine economic efficiency? Are
-societies with greater or lesser amounts of inequality more productive?"
 
 The precise relationship between the welfare state and economic
 efficiency is challenging to ascertain, as ideological bias may suggest
