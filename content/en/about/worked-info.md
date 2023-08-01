@@ -13,5 +13,5 @@ title = "widget 1"
 
 ## Where I’ve worked or volunteered...
  
-I’ve worked for two international law firms, in state government, and in the nonprofit sector. I enjoy building strategic partnerships and advocating for policies to advance economic justice. 
+I’ve worked for two international law firms, in state government, and in the nonprofit sector. I enjoy building strategic partnerships and advocating for policies to advance economic justice. As an Eagle Scout, I try to remember to "do a good turn daily".
 
