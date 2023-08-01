@@ -8,7 +8,7 @@ date = 2022-04-25
 description = "An argument to increase access to justice."
 
 # Comment next line and the default banner wil be used.
-# banner = 'img/MABarsq.jpeg'
+ banner = 'img/Barexam.jpeg'
 +++
 As the Spring semester draws to a close, thousands of soon-to-be law
 school graduates across the country will shift their attention to the

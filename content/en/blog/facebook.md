@@ -8,7 +8,7 @@ date = 2020-06-25
 description = "One Attorney’s Discovery That Not Everything Online is Public."
 
 # Comment next line and the default banner wil be used.
-banner = '/img/typing.jpg'
+banner = '/img/FBblog.jpeg'
 
 +++
 

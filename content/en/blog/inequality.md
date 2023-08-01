@@ -8,7 +8,7 @@ date = 2017-03-17
 description = "does the welfare state enhance or undermine economic efficiency? Are societies with greater or lesser amounts of inequality more productive?"
 
 # Comment next line and the default banner wil be used.
-banner = '/img/blog.jpg'
+banner = '/img/equalityblog.jpeg'
 
 +++
 

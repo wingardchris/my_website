@@ -8,7 +8,7 @@ date = 2021-12-13
 description = "How state, county, and local governments respond to the climate crisis"
 
 # Comment next line and the default banner wil be used.
-banner = '/img/typing.jpg'
+banner = 'img/Capecodclimateriskblog.jpeg'
 
 +++
 

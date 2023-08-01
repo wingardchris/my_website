@@ -8,7 +8,7 @@ date = 2017-04-24
 description = "Is it reasonable to take drastic policy steps to combat climate change given scientific uncertainity?"
 
 # Comment next line and the default banner wil be used.
-banner = '/img/typing.jpg'
+ banner = 'img/meltingearthblog.jpeg'
 
 +++
 
