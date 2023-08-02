@@ -23,7 +23,7 @@ customJS = ["js/console.js"] # Path relative to assets folder
 # in the front matter
 description = "Boilerplate website"
 email = "mailto:wingard.christopher@gmail.com"
-favicon = '/favicon.ico'
+favicon = 'icons/favicon.ico'
 # Dark mode support
 # Supported value are :
 # - off
