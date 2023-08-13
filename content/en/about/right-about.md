@@ -10,7 +10,7 @@ title = "widget2"
 
 +++
 
-I’m a coalition builder, writer, and policy wonk. I’m creating a more just, sustainable, and equitable economy by growing the employee ownership movement. I’ve written extensively on social justice topics at the intersection of law and business. To learn more about these and other topics, please peruse my writings [here](/blog)
+I’m a coalition builder, writer, and policy wonk. I’m creating a more just, sustainable, and equitable economy by growing the employee ownership movement. I’ve written extensively on social justice issues at the intersection of law and business. To learn more about these and other topics, please peruse my writings [here](/blog)
 
 
 
