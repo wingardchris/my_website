@@ -41,8 +41,6 @@ title = "widget 1"
   imgPath = "/img/haley-house.webp"
 
 
-
-
 [[logo]]
   title = "bu-law"
   imgPath = "/img/forest-foundation.jpeg"
