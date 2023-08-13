@@ -53,8 +53,8 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   description = "Authored a 58-page research report on legislative solutions to expand employee ownership in MA"
 
   [[period]]
-  title = "Cooperative Co-Founder"
-  subtitle = "T86 Culinary Collective "
+  title = "Culinary Collective Co-Founder"
+  subtitle = "T86 Student Culinary Collective "
   location = "Somerville, MA"
   date_start = "2015-09-01"
   date_end = "2019-05-01"

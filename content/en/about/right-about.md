@@ -10,7 +10,7 @@ title = "widget2"
 
 +++
 
-I’m an attorney, writer, and advocate. I’m interested in the power of law to create a more just, sustainable, and equitable economy. I’ve written extensively on social justice topics at the intersection of law and business, such as climate risk and employee ownership. To learn more about these and other topics, please peruse my writings [here](/blog)
+I’m a coalition builder, writer, and policy wonk. I’m creating a more just, sustainable, and equitable economy by growing the employee ownership movement. I’ve written extensively on social justice topics at the intersection of law and business. To learn more about these and other topics, please peruse my writings [here](/blog)
 
 
 

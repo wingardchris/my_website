@@ -27,6 +27,6 @@ hero_media = "/img/landing-.jpg"
 
 # Hi, I'm Chris Wingard | MBA | JD
 
-I am a champion of worker ownership and economic democracy. Please join me in creating a more equitable and sustainable economy.
+I advocate for worker ownership and economic democracy. Please join me in creating a more equitable and sustainable economy.
 
 
