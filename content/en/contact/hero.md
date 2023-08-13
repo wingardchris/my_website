@@ -25,6 +25,6 @@ hero_media = "/img/contact.jpg"
 
 # Want to Connect?
 
-Employee ownership, startup ideas, cooperatives, speaking engagements, etc. - I'd love to chat about it. You can reach me at wingard.christopher(at)gmail.com or using the link below. Please note that chatting with me is for information purposes only, and does not constitute legal advice. I do not intend to create an attorney-client relationship with you (just a normal, human-human relationship).
+Employee ownership, startup ideas, ESOPs, co-ops, speaking engagements, etc. - I'd love to chat about it. You can reach me at wingard.christopher(at)gmail.com or using the link below. Please note that chatting with me is for information purposes only, and does not constitute legal advice. I do not intend to create an attorney-client relationship with you (just a normal, human-human relationship).
 
 
