@@ -53,6 +53,14 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
   description = "Authored a 58-page research report on legislative solutions to expand employee ownership in MA"
 
   [[period]]
+  title = "Cooperative Co-Founder"
+  subtitle = "T86 Culinary Collective "
+  location = "Somerville, MA"
+  date_start = "2015-09-01"
+  date_end = "2019-05-01"
+  description = "Developed menus, advertised, and cooked for roughly 25 pop-up dining events with over 1,250 total servings"
+
+  [[period]]
   title = "Tisch Scholar and Forest Foundation Fellow"
   subtitle = "The Haley House Bakery Cafe and Soup Kitchen"
   location = "Boston, MA"
