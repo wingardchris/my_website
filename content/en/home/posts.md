@@ -19,7 +19,7 @@ subtitle = "My latest writing"
 	count = 5
 
 	[content.filters]
-		tag = "climaterisk"
+		tag = "employeeownership"
 		category = ""
 		publication_type = ""
 		exclude_featured = false
