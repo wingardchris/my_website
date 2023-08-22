@@ -1,8 +1,19 @@
-Employee Ownership Structures 101: ESOPS**\
-**
++++
+title = "Employee Ownership Structures 101: ESOPS"
+subtitle = "An introduction to employee stock ownership plans."
+tags = ['employeeownership','ESOPs']
+date = 2023-08-20
 
-![](./media/image1.jpg){width="4.444444444444445in"
-height="2.9583333333333335in"}
+# For description meta tag
+description = "An introduction to employee stock ownership plans."
+
+# Comment next line and the default banner wil be used.
+banner = 'img/EOStructuresESOP.jpg'
+
++++
+
+![](img/EOStructuresESOP.jpg)
+
 
 Employee ownership refers to a specific type of business structure
 centered around worker ownership of either part or all of their
@@ -13,7 +24,7 @@ four employee ownership models differ in the degree of control employee
 owners are granted over management, corporate governance, and control of
 profits.  
 
-A. Typical Employee Stock Ownership Plans
+**A. Typical Employee Stock Ownership Plans**
 
 An employee stock ownership plan, commonly referred to as an ESOP, is a
 financial tool used to transfer partial or full ownership of a company
@@ -44,12 +55,12 @@ cooperatives or collectives.
 ESOPs are by far the most common employee ownership structure in the
 United States. It is important to note that many large publicly traded
 companies utilize ESOPs to confer some small ownership stake to their
-employees. For example, America[']{dir="rtl"}s largest employer,
+employees. For example, America's largest employer,
 Walmart, has 1.1 million active ESOP participants.[^3] These publicly
-traded entities typically don[']{dir="rtl"}t offer meaningful quantities
+traded entities typically don't offer meaningful quantities
 of shares to their employees, as ownership is often concentrated among a
 small number of shareholders. To again use the case of Walmart, 50.86%
-of the business, or some \$163.2 billion, is owned by the founding
+of the business, or some $163.2 billion, is owned by the founding
 Walton family.[^4]
 
 In order to gain a clearer picture of the use of ESOPs to offer
@@ -62,32 +73,30 @@ Some typical ESOPs will explicitly restrict differentials in company
 ownership and salary, so as to ensure a more equitable distribution of
 wealth for all employee owners.  Publix, a supermarket chain based in
 Florida, is the largest employee-owned company in the United States with
-nearly 200,000 employees.[^6] While Publix doesn[']{dir="rtl"}t
+nearly 200,000 employees.[^6] While Publix doesn't
 explicitly restrict pay differentials, its CEO Todd Jones receives total
 compensation that is 74% less than the total compensation paid to his
-peer grocery chain executives.[^7]![Screen Shot 2018-11-29 at 10.32.13
-AM.png](./media/image2.png){width="7.652840113735783in"
-height="2.856492782152231in"}
+peer grocery chain executives.[^7]
 
-Figure 3: Typical Employee Stock Ownership Plan Model[^8]
+![](img/EOStructuresESOPimage1.jpg)
+***Figure 1: Typical Employee Stock Ownership Plan Model[^8]***
 
-B. Democratic Employee Stock Ownership Plans
+**B. Democratic Employee Stock Ownership Plans**
 
 A democratic ESOP overlays certain democratic principles of governance
 onto the traditional ESOP ownership structure.[^9] Democratic, or
-cooperative ESOPs, utilize the ["]{dir="rtl"}instructed-trustee" model,
+cooperative ESOPs, utilize the "instructed-trustee" model,
 whereby the trustee representative only acts on the basis of majority
 consensus of the worker-owners. These employee shareholders are granted
 voting rights on a one-person-one-vote basis which empowers them to
 direct the activities of the trustee, and by extension, the corporation.
 Apart from this democratic control of the corporation, democratic ESOPs
-do not differ from typical ESOPs.
+usually do not differ from typical ESOPs.
 
-![Screen Shot 2018-11-29 at 10.32.23
-AM.png](./media/image3.png){width="6.833333333333333in"
-height="2.723908573928259in"}
+![](img/EOStructuresESOPimage2.jpg)
+***Figure 2: Democratic Employee Stock Ownership Plan Model[^10]***
 
-Figure 4: Democratic Employee Stock Ownership Plan Model[^10]
+
 
 [^1]: Wiefek, Nancy. How an Employee Stock Ownership Plan (ESOP) Works.
     Accessed November 27, 2018.
