@@ -10,7 +10,7 @@ title = '''
 it's nice<br>
 to meet <br> you
 '''
-media = "/img/about.jpg"
+media = "/img/About2.png"
 
 +++
 
