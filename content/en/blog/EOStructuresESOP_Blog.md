@@ -99,12 +99,12 @@ usually do not differ from typical ESOPs.
 
 
 [^1]: Wiefek, Nancy. How an Employee Stock Ownership Plan (ESOP) Works.
-    Accessed November 27, 2018.
+    
     [[https://www.nceo.org/articles/esops-by-the-numbers]{.underline}](https://www.nceo.org/articles/esops-by-the-numbers).
 
 [^2]: \"What Is the Difference Between S Corp and C Corp?\"
-    [[Legalzoom.com]{.underline}](http://legalzoom.com/). August 14,
-    2017. Accessed November 27, 2018.
+    [[Legalzoom.com]{.underline}](http://legalzoom.com/). 
+   
     [[https://www.legalzoom.com/articles/what-is-the-difference-between-s-corp-and-c-corp]{.underline}](https://www.legalzoom.com/articles/what-is-the-difference-between-s-corp-and-c-corp).
 
 [^3]: Dudley, Thomas "How Big is America's Employee-Owned Economy? -
@@ -113,20 +113,20 @@ usually do not differ from typical ESOPs.
     [[https://medium.com/fifty-by-fifty/how-big-is-americas-employee-owned-economy-59fb120a77cf]{.underline}](https://medium.com/fifty-by-fifty/how-big-is-americas-employee-owned-economy-59fb120a77cf)
 
 [^4]: \"CORRECTED-OFFICIAL-Wal-Mart Says Walton Family to Sell Shares
-    To\...\" Reuters. April 10, 2015. Accessed November 27, 2018.
+    To\...\" Reuters. April 10, 2015. 
     [[https://www.reuters.com/article/wal-mart-stores-buyback/corrected-official-wal-mart-says-walton-family-to-sell-shares-to-keep-lid-on-stake-idUSL2N0X724X20150410]{.underline}](https://www.reuters.com/article/wal-mart-stores-buyback/corrected-official-wal-mart-says-walton-family-to-sell-shares-to-keep-lid-on-stake-idUSL2N0X724X20150410).
 
 [^5]: Wiefek, Nancy. How an Employee Stock Ownership Plan (ESOP) Works.
-    Accessed November 27, 2018.
+    
     [[https://www.nceo.org/articles/esops-by-the-numbers]{.underline}](https://www.nceo.org/articles/esops-by-the-numbers).
 
 [^6]: How an Employee Stock Ownership Plan (ESOP) Works. July 2018.
-    Accessed November 27, 2018.
+    
     [[https://www.nceo.org/articles/employee-ownership-100]{.underline}](https://www.nceo.org/articles/employee-ownership-100).
 
 [^7]: Manning, Margie.
     [[Bizjournals.com]{.underline}](http://bizjournals.com/). March 8,
-    2018. Accessed November 27, 2018.
+    2018. 
     [[https://www.bizjournals.com/tampabay/news/2018/03/08/publix-ceo-turns-down-a-raise-but-still-bags-a-28.html]{.underline}](https://www.bizjournals.com/tampabay/news/2018/03/08/publix-ceo-turns-down-a-raise-but-still-bags-a-28.html).
 
 [^8]: Kerr, Camille. A Brief, Visual Guide to Understanding Employee
