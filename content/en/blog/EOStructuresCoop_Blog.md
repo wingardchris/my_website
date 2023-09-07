@@ -14,7 +14,7 @@ banner = 'img/EOStructuresCoop.jpg'
 
 ![](img/EOStructuresCoop.jpg)
 
-Employee ownership refers to a specific type of business structure
+Employee ownership is a specific type of business structure
 centered around worker ownership of either part or all of their
 employing entity. Usually, employee ownership is structured as either a
 worker cooperative, a worker collective, a typical employee stock
@@ -44,7 +44,7 @@ certain principles which, when adhered to, can ensure their commitment
 to their core values.  
 
 According to the U.S. Federation of Worker Cooperatives, there are over
-500 democratic workplaces in the United States which collectively employ
+600 democratic workplaces in the United States which collectively employ
 over 8,000 people and generate over \$400 million in annual
 revenues.[^3] Typically, worker cooperatives employ between 20 and
 several hundred employees. However, the largest worker cooperative in
@@ -67,7 +67,7 @@ hierarchical management systems. Instead of electing a board of
 directors to hire management, worker collectives utilize a horizontal or
 flat management structure whereby all workers are co-managers. In
 effect, this non-hierarchical system means that the worker owners also
-fulfill the role traditionally delegated to the board of directors.
+fulfill the role typically delegated to the board of directors.
 Worker collectives will utilize either consensus-based decision making
 or majority vote to determine their course of action. Consensus based
 decision making can be a particularly cumbersome process, and so most
@@ -86,16 +86,16 @@ quality products from your community brewpub!"[^9]
 [^1]: \"Becoming Employee Owned: A Small Business Toolkit for
     Transitioning to Employee Ownership.\" What Is a Worker Cooperative?
     \| Democracy at Work Institute. January 01, 1970.
-    [[https://institute.coop/resources/becoming-employee-owned-small-business-toolkit-transitioning-employee-ownership]{.underline}](https://institute.coop/resources/becoming-employee-owned-small-business-toolkit-transitioning-employee-ownership).
+    [https://institute.coop/resources/becoming-employee-owned-small-business-toolkit-transitioning-employee-ownership](https://institute.coop/resources/becoming-employee-owned-small-business-toolkit-transitioning-employee-ownership).
 
 [^2]: \"Worker Ownership.\" US Federation of Worker Cooperatives.
-    [[https://usworker.coop/what-is-a-worker-cooperative/]{.underline}](https://usworker.coop/what-is-a-worker-cooperative/).
+    [https://usworker.coop/what-is-a-worker-cooperative/](https://usworker.coop/what-is-a-worker-cooperative/).
 
-[^3]: ibid.
+[^3]: ibid; Kahn, Karen. \"Latest Worker Co-op Survey Shows More Co-ops but Fewer Workers\". Fifty by Fifty. February 11, 2022. [https://www.fiftybyfifty.org/2022/02/latest-worker-co-op-survey-shows-more-co-ops-but-fewer-workers/#:~:text=Through%20its%20bi%2Dannual%20economic,co%2Dops%20employing%206%2C454%20workers](https://www.fiftybyfifty.org/2022/02/latest-worker-co-op-survey-shows-more-co-ops-but-fewer-workers/#:~:text=Through%20its%20bi%2Dannual%20economic,co%2Dops%20employing%206%2C454%20workers.).
 
 [^4]: Anzilotti, Eillie. \"More U.S. Businesses Are Becoming Worker
     Co-ops: Here\'s Why.\" Fast Company. May 21, 2018.
-    [[https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why]{.underline}](https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why).
+    [https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why](https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why).
 
 [^5]: Kerr, Camille. A Brief, Visual Guide to Understanding Employee
     Ownership Structures. Oakland, CA: Democracy at Work Institute,
@@ -108,6 +108,6 @@ quality products from your community brewpub!"[^9]
     2017.
 
 [^8]: \"Members.\" Black Star Co-op.
-    [[https://blackstar.coop/members/]{.underline}](https://blackstar.coop/members/).
+    [https://blackstar.coop/members/](https://blackstar.coop/members/).
 
 [^9]: ibid.
