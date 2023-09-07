@@ -93,7 +93,7 @@ quality products from your community brewpub!"[^9]
 
 [^3]: ibid; Kahn, Karen. \"Latest Worker Co-op Survey Shows More Co-ops but Fewer Workers\". Fifty by Fifty. February 11, 2022. [https://www.fiftybyfifty.org/2022/02/latest-worker-co-op-survey-shows-more-co-ops-but-fewer-workers/#:~:text=Through%20its%20bi%2Dannual%20economic,co%2Dops%20employing%206%2C454%20workers](https://www.fiftybyfifty.org/2022/02/latest-worker-co-op-survey-shows-more-co-ops-but-fewer-workers/#:~:text=Through%20its%20bi%2Dannual%20economic,co%2Dops%20employing%206%2C454%20workers.).
 
-[^4]: Anzilotti, Eillie. \"More U.S. Businesses Are Becoming Worker
+[^4]: Anzilotti, Eillie. "More U.S. Businesses Are Becoming Worker
     Co-ops: Here\'s Why.\" Fast Company. May 21, 2018.
     [https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why](https://www.fastcompany.com/40572926/more-u-s-businesses-are-becoming-worker-co-ops-heres-why).
 
