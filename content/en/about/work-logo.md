@@ -8,41 +8,41 @@ weight = 45  # Order that this section will appear.
 # Widget title
 title = "widget 1"
 
+[[logo]]
+  title = "SES"
+  imgPath = "/img/SES_logo.png"
 
 [[logo]]
-  title = "questrom"
+  title = "Morgan_Lewis"
   imgPath = "/img/morgan-lewis.jpeg"
 
 [[logo]]
-  title = "bu-law"
-  imgPath = "/img/gd.jpeg"
+  title = "Gunderson"
+  imgPath = "/img/GD2.png"
 
 
 [[logo]]
-  title = "tufts"
+  title = "MA_State_Senate"
   imgPath = "/img/ma-state-senate.png"
 
 
 [[logo]]
-  title = "bu-law"
+  title = "Eagle_Scout"
   imgPath = "/img/eagle-scout.png"
 
 
 [[logo]]
-  title = "bu-law"
+  title = "MACEO"
   imgPath = "/img/ma-ceo.png"
 
-[[logo]]
-  title = "nsf"
-  imgPath = "/img/nsf.jpeg"
   
 [[logo]]
-  title = "bu-law"
+  title = "Haley_House"
   imgPath = "/img/haley-house.webp"
 
 
 [[logo]]
-  title = "bu-law"
+  title = "Forest_Foundation"
   imgPath = "/img/forest-foundation.jpeg"
 
 
